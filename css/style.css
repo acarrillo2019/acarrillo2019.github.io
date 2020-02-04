@@ -1,9 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Theme Name: Ashton - One Page Portfolio
-    Description: One Page Portfolio Template
-    Author: chitrakootweb
-    Version: 1.0
+    Alfred Carrillo Portfolio
 
 -----------------------------------------------------------------------------------*/
 /* ----------------------------------
@@ -759,7 +756,7 @@ a:hover, a:active {
     About box
 ================================*/
 .about-box {
-  border-radius: 5px;
+  border-radius: 43px;
   -webkit-box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.2) inset;
   box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.2) inset;
   display: block;
