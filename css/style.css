@@ -756,7 +756,7 @@ a:hover, a:active {
     About box
 ================================*/
 .about-box {
-  border-radius: 43px;
+  border-radius: 20px;
   -webkit-box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.2) inset;
   box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.2) inset;
   display: block;
@@ -773,7 +773,7 @@ a:hover, a:active {
   -webkit-transform: translateY(24px) translateX(24px);
   transform: translateY(24px) translateX(24px); }
   .porfile-photo > img {
-    border-radius: 5px; }
+    border-radius: 20px; }
 
 @media only screen and (max-width: 767px) {
   .porfile-photo {
@@ -1069,6 +1069,38 @@ a:hover, a:active {
 
 .bg-extra-medium-gray.portfolio .filtering span {
   color: #fff; }
+
+.cardBut {
+  color: #333;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  border: 1px solid #d5d5d5;
+  border-radius: 30px;
+  padding: 5px 20px;
+  display: inline-block;
+  margin: 5px auto;
+  width: 100px;
+  position: relative;
+}
+
+.card-title {
+  margin-top: 10px;
+  color: white;
+}
+
+.card-img-top {
+  margin-top: 15px;
+  border-radius: 15px;
+}
+
+.card {
+  border-radius: 20px;
+  border-color: white;
+  /* margin-left: 5px;
+  margin-right: 5px; */
+}
 
 /*============================== 
     Counter
