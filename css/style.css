@@ -327,6 +327,10 @@ a:hover, a:active {
   height: 100%;
   z-index: 1; }
 
+  #blurp {
+    color: yellow;
+  }
+
 /*============================== 
     Navbar
 ================================*/
