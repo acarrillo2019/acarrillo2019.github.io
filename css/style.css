@@ -779,6 +779,22 @@ a:hover, a:active {
   .porfile-photo > img {
     border-radius: 20px; }
 
+#name {
+  margin-left: -20px;
+}
+
+#nameDescrip {
+  margin-left: -20px;
+}
+
+#indentation {
+  text-indent: 5%;
+}
+
+#cvButton {
+  margin-top: 60px;
+}
+
 @media only screen and (max-width: 767px) {
   .porfile-photo {
     -webkit-transform: translateY(0) translateX(0);
@@ -1678,4 +1694,6 @@ ul.countdown li {
     font-size: 20px;
     margin-top: 5px; } }
 
+
+    
 /*# sourceMappingURL=style.css.map */
